@@ -1,0 +1,7 @@
+game.Players.LocalPlayer:kick("You have been banned.")
+Rayfield:Notify({
+   Title = "Script Has Loaded.",
+   Content = "Enjoy Retard Hub!",
+   Duration = 6.5,
+   Image = 4483362458,
+})
